@@ -1,0 +1,17 @@
+{
+    "name": "marceaurodrigues/unit",
+    "require-dev": {
+        "phpunit/phpunit": "^11.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Marceaurodrigues\\Unit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MarceauAdrar",
+            "email": "marceaurodrigues@adrar-formation.com"
+        }
+    ]
+}
